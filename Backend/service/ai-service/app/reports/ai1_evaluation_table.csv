@@ -1,0 +1,8 @@
+horizon,baseline_mae,baseline_rmse,xgboost_mae,xgboost_rmse,mae_improvement_pct,rmse_improvement_pct,tolerance_ppt,baseline_threshold_accuracy_pct,xgboost_threshold_accuracy_pct,target_accuracy_pct,baseline_backtest_rmse_mean,xgboost_backtest_rmse_mean,overall_status,selected_model
+D+1,0.4705,0.5522,0.3195,0.3879,32.09,29.75,0.75,81.92,95.00,75.0,0.4098,0.2886,pass,xgboost
+D+2,0.4808,0.5647,0.3550,0.4256,26.16,24.62,0.75,79.62,93.08,75.0,0.4414,0.3079,pass,xgboost
+D+3,0.6000,0.6951,0.3999,0.4760,33.35,31.53,1.00,86.54,97.69,65.0,0.5176,0.3176,pass,xgboost
+D+4,0.6213,0.7191,0.4429,0.5241,28.73,27.12,1.00,85.00,96.54,65.0,0.5596,0.3309,pass,xgboost
+D+5,0.7183,0.8289,0.4587,0.5424,36.14,34.56,1.00,72.31,95.38,65.0,0.6344,0.3468,pass,xgboost
+D+6,0.8160,0.9375,0.5336,0.6184,34.61,34.04,1.25,81.54,98.08,55.0,0.6956,0.3523,pass,xgboost
+D+7,0.9087,1.0317,0.5738,0.6637,36.86,35.66,1.25,73.46,97.69,55.0,0.7177,0.3896,pass,xgboost

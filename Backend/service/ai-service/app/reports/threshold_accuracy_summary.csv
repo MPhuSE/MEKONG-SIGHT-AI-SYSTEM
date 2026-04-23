@@ -1,0 +1,15 @@
+model,horizon,tolerance_ppt,hit_count,total_count,accuracy_pct,target_accuracy_pct,accuracy_status
+baseline_linear,1,0.75,213,260,81.92307692307692,75.0,pass
+xgboost,1,0.75,247,260,95.0,75.0,pass
+baseline_linear,2,0.75,207,260,79.61538461538461,75.0,pass
+xgboost,2,0.75,242,260,93.07692307692308,75.0,pass
+baseline_linear,3,1.0,225,260,86.53846153846155,65.0,pass
+xgboost,3,1.0,254,260,97.6923076923077,65.0,pass
+baseline_linear,4,1.0,221,260,85.0,65.0,pass
+xgboost,4,1.0,251,260,96.53846153846153,65.0,pass
+baseline_linear,5,1.0,188,260,72.3076923076923,65.0,pass
+xgboost,5,1.0,248,260,95.38461538461539,65.0,pass
+baseline_linear,6,1.25,212,260,81.53846153846153,55.0,pass
+xgboost,6,1.25,255,260,98.07692307692307,55.0,pass
+baseline_linear,7,1.25,191,260,73.46153846153847,55.0,pass
+xgboost,7,1.25,254,260,97.6923076923077,55.0,pass

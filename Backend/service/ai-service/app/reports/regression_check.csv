@@ -1,0 +1,4 @@
+horizon,previous_rmse,current_rmse,pct_change,status
+1,,0.3879296705587769,0.0,no_previous
+3,,0.475956759942757,0.0,no_previous
+7,,0.6637320270073744,0.0,no_previous
